@@ -1,7 +1,7 @@
 # 📊 Customer Churn Prediction Using Artificial Neural Network (ANN)🤖
 
 # Introduction 🚀
-This project is on the thrilling journey of analyzing bank customer churn using powerful machine learning techniques. 📊 The dataset at hand is a treasure trove of information, including customers' credit scores, demographics, account balances, and more.
+This project is on the thrilling journey of analyzing bank customer churn using powerful machine learning and deep learning techniques. 📊 The dataset at hand is a treasure trove of information, including customers' credit scores, demographics, account balances, and more.
 
 ## Skills/Concepts Developed 🧠
 - Data preprocessing 🛠️
